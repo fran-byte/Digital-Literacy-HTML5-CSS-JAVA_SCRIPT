@@ -1,7 +1,7 @@
-# HTML5-CSS-GIT-JAVA_SCRIPT - Material Didáctico y Ejercicios 
+# HTML5-CSS GIT JAVA_SCRIPT
 
 
-Este repositorio pretende ser una introdución a HTML5-CSS-GIT-JAVA_SCRIPT basada en ejercicios y su correspondiente documentación.
+Este repositorio pretende ser una introdución a HTML5-CSS, GIT y JAVA_SCRIPT basada en ejercicios y su correspondiente documentación.
 ## Autor ️
 <img src="mdArchives/logo.png"/> **fran-byte** -
 
