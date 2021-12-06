@@ -1,7 +1,7 @@
 | INDICE |  |
 | ------------- | ------------- |
 | 📕  [HOME](/README.md)     |  |
-| 📕  [CSS](/documentation/css.md)  |  |
+| 📕  [CSS](/documentation/css.md)  | :pencil: 📐 [Ejercicios](/tests/exercices.md) |
 | 📕  [JS](/documentation/js.md)  | :books: [JS Scripts Library](/scripts_library/scripts.md)  |
 
 &nbsp; 
