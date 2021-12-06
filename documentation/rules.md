@@ -47,7 +47,7 @@ color: #e5e5e5;
  
  + El contenido de una etiqueta debe de llevar siempre **una sangría de 2** espacios o una tabulación.
  
- + El **uso de minúsculas para etiquetas**, atributos y valores no afecta a nuestra página, pero mejora la visualización y comprensión del código.
+ + El **uso de minúsculas para etiquetas, atributos y valores** aunque no afecta a nuestra página, pero mejora la visualización y comprensión del código.
  + Usando del atributo ALT para imágenes, nos proporciona el nombre o texto lo mas fiel posible a la imagen.
 
 ```html
