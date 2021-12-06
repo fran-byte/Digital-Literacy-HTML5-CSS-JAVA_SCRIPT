@@ -53,13 +53,13 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
 ```html
 <!DOCTYPE html>
 <html>
+  <!-- Esto es un comentario no podrá verse en nuestra página. -->
   <head>
     <!-- Como puedes observar después de cada etiqueta hacemos una sangría de dos espacios o tabulación (identación) -->
     <meta charset="utf-8">
     <title>Aquí colocamos el título de la página</title>
   </head>
-  <body>
-    <!-- Esto es un comentario no podrá verse en nuestra página. -->
+  <body>    
     <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
   </body>
 </html>
