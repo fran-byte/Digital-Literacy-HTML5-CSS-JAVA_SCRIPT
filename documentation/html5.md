@@ -1,3 +1,14 @@
+          pencil: 📐 [Ejercicios](/tests/exercices.md)
+### 📕  [CSS](/documentation/css.md)   :books: [JS Scripts Library](/scripts_library/scripts.md)
+### 📕  [JS](/documentation/js.md)
+| INDICE |  |
+| ------------- | ------------- |
+| 📕  [HOME](/README.md)     |  |
+| 📕  [CSS](/documentation/css.md)  |  |
+| 📕  [JS](/documentation/js.md)  | :books: [JS Scripts Library](/scripts_library/scripts.md)  |
+
+&nbsp; 
+&nbsp; 
 # 📕 HTML5
 
 Es un lenguaje de marcado que nos permite crear la estructura de una página web.
@@ -24,13 +35,6 @@ Todas las etiquetas deben ser cerradas en su totalidad y siguiendo el orden en q
 
 
 
-# 📕  [HOME](/README.md)
-# 📕  [CSS](/documentation/css.md)
-# 📕  [JS](/documentation/js.md)
-
-# :pencil: 📐 [Ejercicios](/tests/exercices.md)
-
-# :books: [JS Scripts Library](/scripts_library/scripts.md)
 
 
 + Este apartado contiene la documentación necesaria para poder seguir todos los ejercicios y ejemplos dispuestos en el repositorio.
