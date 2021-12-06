@@ -18,12 +18,9 @@ Este Backup se realizará una vez finalizado el curso.
 &nbsp; 
 &nbsp; 
 
-# :pencil: 📐 [Ejercicios](/tests/exercices.md)
-
-# :books: [JS Scripts Library](/scripts_library/scripts.md)
 
 
-+ Este apartado contiene la documentación necesaria para poder seguir todos los ejercicios y ejemplos dispuestos en el repositorio.
++ Este apartado contiene el resumen y links sobre el curso.
 
 
 ## Licencia
