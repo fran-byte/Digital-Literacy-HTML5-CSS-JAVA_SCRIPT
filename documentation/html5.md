@@ -97,7 +97,7 @@ Pero todo ello correctamente estructurado y etiquetado:
 ```
 
 ### h1, h2, h3, h4, h5, h6
-+ Etiquetas para establecer los encabezados. El nivel H1 es el más importante y H6 el menos importante.
++ Etiquetas para establecer los encabezados. El nivel **h1** es el más importante y **h6** el menos importante.
 ```html
 <h1>Lema o título de nuestra WEB</h1>
 <h2>EL CONTENIDO PRINCIPAL</h2>
