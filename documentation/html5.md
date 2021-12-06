@@ -22,7 +22,10 @@ Empezamos declarando con esta etiqueta el tipo de documento para que el navegado
 ### \<head>\</head>
 ```html
 <head>
-  <meta charset="utf-8"> 
+  <meta charset="utf-8"> <!-- Es un tipo de codificación (idioma, caracteres -->
+  <meta name="title" content="Título de la WEB"> <!-- Título de la página -->
+  <meta name="description" content="Descripción de la WEB">   <!-- Descripción de la página --> 
+  <link href="http://dominio.com/hoja-de-estilos.css" rel="stylesheet" type="text/css"/> <!-- Ubicación de hoja de la estilos CSS -->
 </head>
 ```
 
