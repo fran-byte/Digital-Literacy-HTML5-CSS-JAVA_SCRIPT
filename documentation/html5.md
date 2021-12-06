@@ -32,6 +32,43 @@ Empezamos declarando con esta etiqueta el tipo de documento para que el navegado
 Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
 
 ### \<body>\<\body>
+```html
+    <header>
+      <h1>Enunciado/Título de la WEB</h1>      
+    </header>    
+    <nav> 
+      <!-- Estructura principal de navegación entre nuestras páginas -->
+      <a href="http://dominio.com/seccion2.html">IR SECCIÓN 2</a>
+      <a href="http://dominio.com/seccion2.html">IR SECCIÓN 3</a>
+    </nav>
+    <section> <!-- Sección dentro de la página -->      
+      <article> <!-- Un artículo de nuestra página -->
+        <h2>CONTENIDO PRINCIPAL</h2>
+        <p>Este es el contenido principal de mi web</p>
+        <div>
+          <p>Aquí tenéis una imagen.</p>
+          <img src="http://dominio.com/imagen.jpg" alt="paisaje">          
+        </div>
+      </article>      
+    </section>
+    <aside>  <!-- Contenido indirectamente relacionado con el artículo de nuestra página -->
+      <h3>Banner de publicidad</h3>
+      <a href="http://dominio-externo.com">
+        <img src="http://dominio.com/banner-publicidad.png" alt="banner de publicidad">
+      </a>
+      <h3>Testimonios</h3>
+      <p>Me gusta mucho esta página.</p>
+    </aside>
+    <footer>
+       <!-- Nuestro pie o fin de página -->
+      <h4>Avisos legales</h4>
+      <a href="http://dominio.com/aviso-legal">Política de cookies</a>
+      <h4>Redes sociales</h4>
+      <a href="http://facebook.com/mi-pagina-de-facebook">Mi Facebook</a>
+    </footer>
+  </body>  
+</html>
+```
 La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
 
 Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
