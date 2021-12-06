@@ -23,7 +23,7 @@ Empezamos declarando con esta etiqueta el tipo de documento para que el navegado
 + Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
 ```html
 <head>
-  <meta charset="utf-8"> <!-- Es un tipo de codificación (idioma, caracteres -->
+  <meta charset="utf-8"> <!-- Es un tipo de codificación (idioma, caracteres...) -->
   <meta name="title" content="Título de la WEB"> <!-- Título de la página -->
   <meta name="description" content="Descripción de la WEB">   <!-- Descripción de la página --> 
   <link href="http://dominio.com/hoja-de-estilos.css" rel="stylesheet" type="text/css"/> <!-- Ubicación de hoja de la estilos CSS -->
