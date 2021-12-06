@@ -9,6 +9,20 @@
 
 # Buenas prácticas a la hora de escribir HTML
 
+ + Todo el código debe de estar escrito en lowercase.
+ ```html
+<!-- Not recommended -->
+<A HREF="/">Home</A>
+
+<!-- Recommended -->
+<img src="google.png" alt="Google">
+
+/* Not recommended */
+color: #E5E5E5;
+
+/* Recommended */
+color: #e5e5e5;
+```
 
  + Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
 ```html
