@@ -59,7 +59,7 @@ Pero todo ello correctamente estructurado y etiquetado:
 <body>
   
 ```
-#### Ejemplo de estructuración dentro de body
+#### Ejemplo de estructura dentro de "body"
 ```html
   <body>
     <header>
