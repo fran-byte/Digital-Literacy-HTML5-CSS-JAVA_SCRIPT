@@ -10,7 +10,7 @@
 
 # Buenas prácticas a la hora de escribir HTML
 
- + Todo el código debe de estar escrito en lowercase.
+ + Todo el código debe de estar escrito en **lowercase**.
  ```html
 <!-- Not recommended -->
 <A HREF="/">Home</A>
