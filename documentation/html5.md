@@ -116,3 +116,20 @@ Pero todo ello correctamente estructurado y etiquetado:
 
 ### \<spam>\</spam>
 + Otra etiqueta que tiene función de contenedor, un contenedor en línea. Para destacar por ejemplo una expresión o una palabra dentro de un párrafo al igual que al resto se le puede poner un estilo mediante un atributo. 
+
+### \<br>
++ Un simple salto de línea.
+
+### \<ol>  \<li>\</li> \<ol> | \<ul> \<li>\</li> \<ul>
++ Etiqueta **\<ol>** nos sirve para crear listas ordenadas y**\<ul>** para listas desordenadas. Dentro de cada las lista, los elementos se identifican con la etiqueta **\<li>**.
+```html
+<ol>
+  <li>Primer elemento ordenado</li>
+  <li>Segundo elemento ordenado</li>
+<ol>
+  
+<ul>
+  <li>Primer elemento "desordenado"</li>
+  <li>Segundo elemento "desordenado"</li>
+<ul>
+```
