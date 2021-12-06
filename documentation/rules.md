@@ -42,7 +42,7 @@ color: #e5e5e5;
 <html>
   <!-- Esto es un comentario no podrá verse en nuestra página. -->
   <head>
-    <!-- Como puedes observar después de cada etiqueta hacemos una sangría de dos espacios o tabulación (identación) -->
+    <!-- Como puedes observar después de cada etiqueta en la que estamos contenido, hacemos una sangría de dos espacios o tabulación (identación) -->
     <meta charset="utf-8">
     <title>Aquí colocamos el título de la página</title>
   </head>
