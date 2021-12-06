@@ -103,7 +103,7 @@ Pero todo ello correctamente estructurado y etiquetado:
 <h2>EL CONTENIDO PRINCIPAL</h2>
 <h3>Textos</h3>
 <h4>Avisos legales</h4>
-´´´
+```
 
 
 
