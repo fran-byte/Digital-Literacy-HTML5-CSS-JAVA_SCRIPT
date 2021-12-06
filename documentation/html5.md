@@ -1,6 +1,3 @@
-          pencil: 📐 [Ejercicios](/tests/exercices.md)
-### 📕  [CSS](/documentation/css.md)   :books: [JS Scripts Library](/scripts_library/scripts.md)
-### 📕  [JS](/documentation/js.md)
 | INDICE |  |
 | ------------- | ------------- |
 | 📕  [HOME](/README.md)     |  |
