@@ -25,7 +25,7 @@ Este elemento delimita la cabecera del documento, y entre sus etiquetas nos pode
 ### \<BODY>\<\BODY>
 La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
 
-Todas las etiquetas deben ser cerradas en su totalidad y siguiendo el orden en que se abrieron, a excepción de algunas como:
+Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
 ```html
 <area>
 <base>
@@ -44,16 +44,9 @@ Todas las etiquetas deben ser cerradas en su totalidad y siguiendo el orden en q
 <track>
 <wbr>
 ```
- El uso de minúsculas para etiquetas, atributos y valores No afecta a nuestra página, pero mejora la visualización y comprensión del código. 2021-12-06 Uso del atributo ALT en imágenes 2021-12-06 Todas las imágenes que incluyas en tu sitio web deben agregarse siempre este atributo, el cual proporciona, como lo indica su nombre, un texto alterno a la imagen. 2021-12-06 2021-12-06 2021-12-06 2021-12-06
+ + El contenido de una etiqueta debe de llevar siempre una sangría de 2 espacios o una tabulación.
+ 
+ + El uso de minúsculas para etiquetas, atributos y valores No afecta a nuestra página, pero mejora la visualización y comprensión del código. 2021-12-06 Uso del atributo ALT en imágenes 2021-12-06 Todas las imágenes que incluyas en tu sitio web deben agregarse siempre este atributo, el cual proporciona, como lo indica su nombre, un texto alterno a la imagen.
+ 
+[Guia completa](https://google.github.io/styleguide/htmlcssguide.html)
 
-
-
-
-
-+ Este apartado contiene la documentación necesaria para poder seguir todos los ejercicios y ejemplos dispuestos en el repositorio.
-
-
-## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
