@@ -13,7 +13,7 @@ Es un lenguaje de marcado que nos permite crear la estructura de una página web
 Este contenido estático posteriormente podrá ser visualizado en nuestro navegador, que con las hojas de estilos CSS y la ayuda de los scripts JS (contenido dinámico, interpretado en el navegador también), nos ayudarán con el diseño gráfico, creación y presentación de nuestro documento. 
 &nbsp; 
 
-## Buenas prácticas a la hora de escribir HTML
+# [Antes de continuar LEER las buenas prácticas a la hora de escribir HTML](rules.md)
 
 ### \<!DOCTYPE html>  (documento HTML)
 
@@ -44,54 +44,3 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
 <track>
 <wbr>
 ```
- + Todo el código debe de estar escrito en lowercase:
- 
- ```html
-<!-- Not recommended -->
-<A HREF="/">Home</A>
-
-<!-- Recommended -->
-<img src="google.png" alt="Google">
-
-/* Not recommended */
-color: #E5E5E5;
-
-/* Recommended */
-color: #e5e5e5;
-
-
- ```
- 
- + El contenido de una etiqueta debe de llevar siempre **una sangría de 2** espacios o una tabulación.
- 
- + El **uso de minúsculas para etiquetas**, atributos y valores no afecta a nuestra página, pero mejora la visualización y comprensión del código.
- + Usando del atributo ALT para imágenes, nos proporciona el nombre o texto lo mas fiel posible a la imagen.
-
-```html
-<!DOCTYPE html>
-<html>
-  <!-- Esto es un comentario no podrá verse en nuestra página. -->
-  <head>
-    <!-- Como puedes observar después de cada etiqueta hacemos una sangría de dos espacios o tabulación (identación) -->
-    <meta charset="utf-8">
-    <title>Aquí colocamos el título de la página</title>
-  </head>
-  <body>    
-    <img src="images/coche.png" alt="Porche Rojo">
-  </body>
-</html>
- ```
- + Evita utilizar la etiqueta **\<div>** para todo, puedes y debes de utilizar otras:
- ```html
-<header>
-<nav>
-<aside>
-<section>
-<article>
-<menu>
-<footer>
- ```
- 
- 
-[Guia completa](https://google.github.io/styleguide/htmlcssguide.html)
-
