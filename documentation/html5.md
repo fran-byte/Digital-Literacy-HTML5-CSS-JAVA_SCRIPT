@@ -11,7 +11,7 @@
 Es un lenguaje de marcado que nos permite crear la estructura de una página web.
 
 Este contenido estático posteriormente podrá ser visualizado en nuestro navegador, que con la ayuda de los scripts (JS) contenido dinámico, interpretado en el navegador también y las hojas de estilos CSS, nos ayudarán con el diseño gráfico, creación y presentación de nuestro documento. 
-
+&nbsp; 
 
 ## Buenas prácticas a la hora de escribir HTML
 
