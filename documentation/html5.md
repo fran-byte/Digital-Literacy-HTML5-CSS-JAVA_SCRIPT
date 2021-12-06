@@ -38,20 +38,21 @@ Pero todo ello correctamente estructurado y etiquetado:
 
 <body>
   
-  <nav>
+  <nav>            <!-- Estructura principal de navegación entre nuestras páginas -->
   </nav>
     
-  <section>
+  <section>        <!-- Sección dentro de la página -->
+  <section> 
     
-    <article>
+    <article>      <!-- Un artículo de nuestra página -->
     </article>
     
   </section>
     
-  <aside>
+  <aside>          <!-- Contenido indirectamente relacionado con el artículo de nuestra página -->
   </aside>
     
-  <footer>
+  <footer>         <!-- Nuestro pie o fin de página -->
   </footer>
     
 <body>
@@ -63,12 +64,10 @@ Pero todo ello correctamente estructurado y etiquetado:
       <h1>Enunciado/Título de la WEB</h1>      
     </header>    
     <nav> 
-      <!-- Estructura principal de navegación entre nuestras páginas -->
       <a href="http://dominio.com/seccion2.html">IR SECCIÓN 2</a>
       <a href="http://dominio.com/seccion2.html">IR SECCIÓN 3</a>
-    </nav>
-    <section> <!-- Sección dentro de la página -->      
-      <article> <!-- Un artículo de nuestra página -->
+    </nav>      
+      <article> 
         <h2>CONTENIDO PRINCIPAL</h2>
         <p>Este es el contenido principal de mi web</p>
         <div>
@@ -77,7 +76,7 @@ Pero todo ello correctamente estructurado y etiquetado:
         </div>
       </article>      
     </section>
-    <aside>  <!-- Contenido indirectamente relacionado con el artículo de nuestra página -->
+    <aside>  
       <h3>Banner de publicidad</h3>
       <a href="http://dominio-externo.com">
         <img src="http://dominio.com/banner-publicidad.png" alt="banner de publicidad">
@@ -86,7 +85,6 @@ Pero todo ello correctamente estructurado y etiquetado:
       <p>Me gusta mucho esta página.</p>
     </aside>
     <footer>
-       <!-- Nuestro pie o fin de página -->
       <h4>Avisos legales</h4>
       <a href="http://dominio.com/aviso-legal">Política de cookies</a>
       <h4>Redes sociales</h4>
