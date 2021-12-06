@@ -76,6 +76,6 @@ color: #e5e5e5;
  ```
  + En el HTML avanzado, los comentarios no deberían ser necesarios, ya que el marcado HTML se explica por sí mismo.
 
-## Link la [Guia completa](https://google.github.io/styleguide/htmlcssguide.html)
+## Link: [Guia completa](https://google.github.io/styleguide/htmlcssguide.html)
 
 
