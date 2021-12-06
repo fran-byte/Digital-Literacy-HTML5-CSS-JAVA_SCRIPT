@@ -60,9 +60,9 @@ Pero todo ello correctamente estructurado y etiquetado:
   
 ```
 #### Ejemplo de estructura dentro de "body"
-```html hl_lines="3 4"
- 
-  <body>
+```html
+##!html hl_lines="3 4"
+   <body>
     <header>
       <h1>Enunciado/Título de la WEB</h1>      
     </header>    
