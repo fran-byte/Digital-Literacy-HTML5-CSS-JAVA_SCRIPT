@@ -1,4 +1,4 @@
-# HTML5-CSS GIT JAVA_SCRIPT
+# HTML5 - CSS - JAVA_SCRIPT
 
 
 Este repositorio pretende ser una introdución a HTML5, CSS y JAVA_SCRIPT del Curso Digital-Literacy de la Agencia para el Empleo de MADRID basada en ejercicios y su correspondiente documentación.
