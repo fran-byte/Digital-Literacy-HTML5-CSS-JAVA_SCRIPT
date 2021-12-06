@@ -48,7 +48,7 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
  + El contenido de una etiqueta debe de llevar siempre **una sangría de 2** espacios o una tabulación.
  
  + El **uso de minúsculas para etiquetas**, atributos y valores no afecta a nuestra página, pero mejora la visualización y comprensión del código.
- + Uso del atributo ALT en imágenes 2021-12-06 Todas las imágenes que incluyas en tu sitio web deben agregarse siempre este atributo, el cual proporciona, como lo indica su nombre, un texto alterno a la imagen.
+ + Usando del atributo ALT para imágenes, nos proporciona el nombre o texto lo mas fiel posible a la imagen.
 
 ```html
 <!DOCTYPE html>
@@ -64,5 +64,16 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
   </body>
 </html>
  ```
+ + Evita utilizar la etiqueta **\<div>** para todo.
+ ```html
+<header>
+<aside>
+<section>
+<article>
+<menu>
+<footer>
+ ```
+ 
+ 
 [Guia completa](https://google.github.io/styleguide/htmlcssguide.html)
 
