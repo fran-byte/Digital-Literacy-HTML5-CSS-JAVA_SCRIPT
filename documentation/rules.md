@@ -52,13 +52,8 @@ color: #e5e5e5;
  ```
  + Evita utilizar la etiqueta **\<div>** para todo, puedes y debes de utilizar otras:
  ```html
-<header>
-<nav>
-<aside>
-<section>
-<article>
-<menu>
-<footer>
+<header>  <nav>  <aside> <section>
+<article>  <menu>  <footer>
  ```
  + En el HTML avanzado, los comentarios no deberían ser necesarios, ya que el marcado HTML se explica por sí mismo.
 
