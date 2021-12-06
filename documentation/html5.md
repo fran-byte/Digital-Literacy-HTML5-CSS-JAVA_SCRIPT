@@ -106,7 +106,12 @@ Pero todo ello correctamente estructurado y etiquetado:
 ```
 
 ### \<div>\</div>
-+ Esta etiqueta la usamos para dividir contenido en secciones/subsecciones...etc. y poder aplicarle clases y modificar sus estilos.
-
++ Esta etiqueta la usamos para dividir contenido en secciones/subsecciones...etc. y poder aplicarle clases y modificar sus estilos, que podremos ver mas cuando veamos las hojas de estilos CSS.
+```html
+<div id="azul" style="background-color: blue;">  <!-- Modificando el estilo con el correspondiente CSS -->
+</div>
+```
+### \<p>\</p>
++ Otra sub división utilizada como párrafo que podría ir perfectamente dentro del contenedor \<div> anterior.
 
 
