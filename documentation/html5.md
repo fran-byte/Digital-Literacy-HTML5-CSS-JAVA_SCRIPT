@@ -135,8 +135,8 @@ Pero todo ello correctamente estructurado y etiquetado:
 ```
 
 ### \<a>\</a>
-+ Etiqueta para crear un enlace a una página web. Atributo principal **href**, contendrá el enlace al que queremos conectar. Otro atributo es target, indicará si el enlace se abrirá en la misma ventana o en una nueva.
++ Etiqueta para crear un enlace a una página web. Atributo principal **href**, contendrá el enlace al que queremos conectar. Otro atributo es **target**, indicará si el enlace se abrirá en la misma ventana o en una nueva.
 ```html
- <a href="http://dominio.com/aviso-legal">Política de cookies</a>
+ <a href="http://dominio.com/aviso-legal" target=”_blank”>Política de cookies</a>
 ```
 
