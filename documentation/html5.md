@@ -121,7 +121,7 @@ Pero todo ello correctamente estructurado y etiquetado:
 + Un simple salto de línea.
 
 ### \<ol>  \<li>\</li> \<ol> | \<ul> \<li>\</li> \<ul>
-+ Etiqueta **\<ol>** nos sirve para crear listas ordenadas y**\<ul>** para listas desordenadas. Dentro de cada las lista, los elementos se identifican con la etiqueta **\<li>**.
++ Etiqueta **\<ol>** nos sirve para crear listas ordenadas y **\<ul>** para listas desordenadas. Dentro de cada las lista, los elementos se identifican con la etiqueta **\<li>**.
 ```html
 <ol>
   <li>Primer elemento ordenado</li>
