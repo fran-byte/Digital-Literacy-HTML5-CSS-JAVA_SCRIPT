@@ -37,17 +37,23 @@ Pero todo ello correctamente estructurado y etiquetado:
 ```html
 
 <body>
-  <header>
+  
   <nav>
   </nav>
+    
   <section>
+    
     <article>
     </article>
+    
   </section>
+    
   <aside>
   </aside>
+    
   <footer>
   </footer>
+    
 <body>
   
 ```
