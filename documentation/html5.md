@@ -8,9 +8,9 @@
 &nbsp; 
 # 📕 HTML5
 
-Es un lenguaje de marcado que nos permite crear la estructura de una página web.
++ Es un lenguaje de marcado que nos permite crear la estructura de una página web.
 
-A este contenido estático que visualizaremos en nuestro navegador, le añadiremos hojas de estilos CSS y contenidos dinámicos (JavaScript) para ayudar en la tarea del diseño gráfico, creación y presentación de nuestro documento. 
++ A este contenido estático que visualizaremos en nuestro navegador, le añadiremos hojas de estilos CSS y contenidos dinámicos (JavaScript) para ayudar en la tarea del diseño gráfico, creación y presentación de nuestro documento. 
 &nbsp; 
 
 # Antes de continuar LEER: [<Buenas prácticas para escribir HTML>](rules.md)
