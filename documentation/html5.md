@@ -43,7 +43,6 @@ Pero todo ello correctamente estructurado y etiquetado:
   </nav>
     
   <section>        <!-- Sección dentro de la página -->
-  <section> 
     
     <article>      <!-- Un artículo de nuestra página -->
     </article>
