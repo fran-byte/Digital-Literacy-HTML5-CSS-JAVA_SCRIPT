@@ -20,6 +20,7 @@ Este contenido estático que posteriormente podrá ser visualizado en nuestro na
 Empezamos declarando con esta etiqueta el tipo de documento para que el navegador pueda interpretar y visualizar su contenido.
 
 ### \<head>\</head>
++ Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
 ```html
 <head>
   <meta charset="utf-8"> <!-- Es un tipo de codificación (idioma, caracteres -->
@@ -29,7 +30,7 @@ Empezamos declarando con esta etiqueta el tipo de documento para que el navegado
 </head>
 ```
 
-Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
+
 
 ### \<body>\<\body>
 + La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
