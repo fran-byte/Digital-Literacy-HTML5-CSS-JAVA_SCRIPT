@@ -9,9 +9,14 @@ Este Backup se realizará una vez finalizado el curso.
 <img src="mdArchives/logo.png"/> **fran-byte**
 
 
-# 📕  [HTML5](/documentation/html5.md)
-# 📕  [CSS](/documentation/css.md)
-# 📕  [JS](/documentation/js.md)
+| INDICE |  |
+| ------------- | ------------- |
+| 📕  [HTML](/documentation/html5.md)     |  |
+| 📕  [CSS](/documentation/css.md)  | :pencil: 📐 [Ejercicios](/tests/exercices.md) |
+| 📕  [JS](/documentation/js.md)  | :books: [JS Scripts Library](/scripts_library/scripts.md)  |
+
+&nbsp; 
+&nbsp; 
 
 # :pencil: 📐 [Ejercicios](/tests/exercices.md)
 
