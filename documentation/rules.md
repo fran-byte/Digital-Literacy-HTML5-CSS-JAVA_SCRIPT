@@ -1,16 +1,16 @@
-## Buenas prácticas a la hora de escribir HTML
+| INDICE |  |
+| ------------- | ------------- |
+| :house:  [HOME](/README.md)     |  |
+| 📕  [CSS](/documentation/css.md)  | :pencil: 📐 [Ejercicios](/tests/exercices.md) |
+| 📕  [JS](/documentation/js.md)  | :books: [JS Libreria de Scripts](/scripts_library/scripts.md)  |
 
-### \<!DOCTYPE html>  (documento HTML)
+&nbsp; 
+&nbsp; 
 
-Empezamos declarando con esta etiqueta el tipo de documento para que el navegador pueda interpretar y visualizar su contenido.
+# Buenas prácticas a la hora de escribir HTML
 
-### \<HEAD>\</HEAD>
-Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
 
-### \<BODY>\<\BODY>
-La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
-
-Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
+ + Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
 ```html
 <area>
 <base>
