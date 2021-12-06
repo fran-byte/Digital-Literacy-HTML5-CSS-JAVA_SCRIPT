@@ -47,8 +47,19 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
  + Todo el código debe de estar escrito en lowercase:
  
  ```html
- <!-- Not recommended -->
- <A HREF="/">Home</A>
+<!-- Not recommended -->
+<A HREF="/">Home</A>
+
+<!-- Recommended -->
+<img src="google.png" alt="Google">
+
+/* Not recommended */
+color: #E5E5E5;
+
+/* Recommended */
+color: #e5e5e5;
+
+
  ```
  
  + El contenido de una etiqueta debe de llevar siempre **una sangría de 2** espacios o una tabulación.
