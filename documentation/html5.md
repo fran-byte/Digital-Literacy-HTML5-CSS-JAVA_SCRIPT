@@ -114,4 +114,5 @@ Pero todo ello correctamente estructurado y etiquetado:
 ### \<p>\</p>
 + Otra sub división utilizada como párrafo que podría ir perfectamente dentro del contenedor \<div> anterior.
 
-
+### \<spam>\</spam>
+La etiqueta <spam> tiene función de contenedor también, un contenedor en línea. Para destacar por ejemplo una expresión o una palabra dentro de un párrafo al igual que al resto se le puede poner un estilo mediante un atributo. 
