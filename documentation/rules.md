@@ -24,24 +24,10 @@ color: #E5E5E5;
 color: #e5e5e5;
 ```
 
- + Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
++ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
 ```html
-<area>
-<base>
-<br>
-<col>
-<embed>
-<hr>
-<img>
-<input>
-<keygen>
-<link>
-<menuitem>
-<meta>
-<param>
-<source>
-<track>
-<wbr>
+<area> <base>  <br>  <col>  <embed>  <hr>  <img>  <input>  <keygen>
+<link>  <menuitem>  <meta>  <param>  <source>  <track>  <wbr>
 ```
 
  
