@@ -44,7 +44,12 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
 <track>
 <wbr>
 ```
-
+ + Todo el código debe de estar escrito en lowercase:
+ ´´´html
+ <!-- Not recommended -->
+ <A HREF="/">Home</A>
+ ´´´
+ 
  + El contenido de una etiqueta debe de llevar siempre **una sangría de 2** espacios o una tabulación.
  
  + El **uso de minúsculas para etiquetas**, atributos y valores no afecta a nuestra página, pero mejora la visualización y comprensión del código.
@@ -60,13 +65,14 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
     <title>Aquí colocamos el título de la página</title>
   </head>
   <body>    
-    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
+    <img src="images/coche.png" alt="Porche Rojo">
   </body>
 </html>
  ```
- + Evita utilizar la etiqueta **\<div>** para todo.
+ + Evita utilizar la etiqueta **\<div>** para todo, puedes y debes de utilizar otras:
  ```html
 <header>
+<nav>
 <aside>
 <section>
 <article>
