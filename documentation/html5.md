@@ -10,7 +10,7 @@
 
 Es un lenguaje de marcado que nos permite crear la estructura de una página web.
 
-Este contenido estático que posteriormente podrá ser visualizado en nuestro navegador, con ayuda de las hojas de estilos CSS y también con nuestros bloques de JavaScript (contenidos dinámicos), nos ayudarán en la tarea del diseño gráfico, creación y presentación de nuestro documento. 
+A este contenido estático que visualizaremos en nuestro navegador, le añadiremos hojas de estilos CSS y contenidos dinámicos (JavaScript) para ayudar en la tarea del diseño gráfico, creación y presentación de nuestro documento. 
 &nbsp; 
 
 # Antes de continuar LEER: [<Buenas prácticas para escribir HTML>](rules.md)
