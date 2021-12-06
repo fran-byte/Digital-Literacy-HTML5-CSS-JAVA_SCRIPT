@@ -140,3 +140,8 @@ Pero todo ello correctamente estructurado y etiquetado:
  <a href="http://dominio.com/aviso-legal" target=”_blank”>Política de cookies</a>
 ```
 
+### \<img>\</img>
++ Etiqueta para mostrar imágenes dentro de un contenido. Lleva consigo el atributo **src** para poder ser utilizada, que será la ubicación donde se encuentra nuestra imagen. Es importante colocar siempre el atributo **title** para saber la descripción de esa imagen a lahora de leer nuestro código.
++ ```html
+<img src="img/tricks-img/exposure-triangle.png" alt=”Triángulo de exposición">
+```
