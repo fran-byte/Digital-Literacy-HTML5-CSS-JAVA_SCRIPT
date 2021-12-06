@@ -17,10 +17,7 @@ Este Backup se realizará una vez finalizado el curso.
 
 &nbsp; 
 &nbsp; 
-
-
-
-+ Este apartado contiene el resumen y links sobre el curso.
+.
 
 
 ## Licencia
