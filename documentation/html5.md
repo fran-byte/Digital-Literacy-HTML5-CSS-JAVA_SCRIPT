@@ -96,7 +96,7 @@ Pero todo ello correctamente estructurado y etiquetado:
 ```
 
 
-Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
++ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
 ```html
 <area>
 <base>
