@@ -74,7 +74,7 @@ color: #e5e5e5;
 <menu>
 <footer>
  ```
- 
+ + En el HTML avanzado, los comentarios no deberían ser necesarios, ya que el marcado HTML se explica por sí mismo.
 
 Dejo en este link la [Guia completa](https://google.github.io/styleguide/htmlcssguide.html)
 
