@@ -105,5 +105,8 @@ Pero todo ello correctamente estructurado y etiquetado:
 <h4>Avisos legales</h4>
 ```
 
+### \<div>\</div>
++ Esta etiqueta la usamos para dividir contenido en secciones/subsecciones...etc. y poder aplicarle clases y modificar sus estilos.
+
 
 
