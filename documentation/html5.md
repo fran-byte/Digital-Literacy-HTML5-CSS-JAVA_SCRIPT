@@ -32,7 +32,27 @@ Empezamos declarando con esta etiqueta el tipo de documento para que el navegado
 Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
 
 ### \<body>\<\body>
++ La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
+Pero todo ello correctamente estructurado y etiquetado:
 ```html
+
+<body>
+  <header>
+  <nav>
+  </nav>
+  <section>
+    <article>
+    </article>
+  </section>
+  <aside>
+  </aside>
+  <footer>
+  </footer>
+<body>
+  
+```
+```html
+  <body>
     <header>
       <h1>Enunciado/Título de la WEB</h1>      
     </header>    
@@ -67,9 +87,9 @@ Este elemento delimita la cabecera del documento, y entre sus etiquetas nos pode
       <a href="http://facebook.com/mi-pagina-de-facebook">Mi Facebook</a>
     </footer>
   </body>  
-</html>
+
 ```
-La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
+
 
 Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abrieron, a excepción de algunas como:
 ```html
