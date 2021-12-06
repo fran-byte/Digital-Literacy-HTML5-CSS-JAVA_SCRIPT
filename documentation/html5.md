@@ -45,10 +45,11 @@ Todas las etiquetas deben ser cerradas y siguiendo el mismo orden en que se abri
 <wbr>
 ```
  + Todo el código debe de estar escrito en lowercase:
- ´´´html
+ 
+ ```html
  <!-- Not recommended -->
  <A HREF="/">Home</A>
- ´´´
+ ```
  
  + El contenido de una etiqueta debe de llevar siempre **una sangría de 2** espacios o una tabulación.
  
