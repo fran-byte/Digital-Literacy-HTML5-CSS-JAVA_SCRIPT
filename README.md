@@ -2,7 +2,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML-5-lightgrey.svg?style=for-the-badge&logo=appveyor)](/documentation/html5.md)
 [![HTML5](https://img.shields.io/badge/CSS-green.svg?style=for-the-badge&logo=appveyor)](documentation/css.md)
-[![JS](https://img.shields.io/badge/CSS-red.svg?style=for-the-badge&logo=appveyor)](documentation/js.md)
+[![JS](https://img.shields.io/badge/JS-red.svg?style=for-the-badge&logo=appveyor)](documentation/js.md)
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
