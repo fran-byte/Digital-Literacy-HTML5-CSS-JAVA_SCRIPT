@@ -13,11 +13,10 @@ Este repositorio pretende ser una recopilación de apuntes e información sobre 
 <img src="mdArchives/logo.png"/> **fran-byte**
 
 
-| INDICE |  |
-| ------------- | ------------- |
-| 📕  [HTML](/documentation/html5.md)     |  |
-| 📕  [CSS](/documentation/css.md)  | :pencil: 📐 [Ejercicios](/tests/exercices.md) |
-| 📕  [JS](/documentation/js.md)  | :books: [JS Scripts Library](/scripts_library/scripts.md)  |
+
+📕  [HTML](/documentation/html5.md)   
+📕  [CSS](/documentation/css.md)  :pencil: 📐 [Ejercicios](/tests/exercices.md) |
+📕  [JS](/documentation/js.md)  :books: [JS Scripts Library](/scripts_library/scripts.md)  |
 
 &nbsp; 
 &nbsp; 
