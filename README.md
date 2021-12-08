@@ -1,5 +1,11 @@
 # HTML5 - CSS - JAVA_SCRIPT
 
+[![HTML5](/documentation/html5.md)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/main/LICENSE.txt)
+[![NPM Downloads](https://img.shields.io/npm/dt/html5-boilerplate.svg)](https://www.npmjs.com/package/html5-boilerplate)
+[![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/h5bp/html5-boilerplate)
+
+
 
 Este repositorio pretende ser una introdución a HTML5, CSS y JAVA_SCRIPT del Curso Digital-Literacy de la Agencia para el Empleo de MADRID basada en ejercicios y su correspondiente documentación.
 
