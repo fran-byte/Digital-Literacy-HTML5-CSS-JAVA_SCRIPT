@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](/LICENSE.txt)
 
-📕  [HTML](/documentation/html5.md)         📕  [CSS](/documentation/css.md)         📕  [JS](/documentation/js.md)         :pencil: [Ejercicios](/tests/exercices.md)         :books: [JS Scripts Library](/scripts_library/scripts.md)
+📕  [HTML](/documentation/html5.md)         📕  [CSS](/documentation/css.md)         📕  [JS](/documentation/js.md)         :pencil: [Ejercicios](/html-css-examples/)         :books: [JS Scripts Library](/scripts_library/scripts.md)
 
 
 Este repositorio pretende ser una recopilación basada en apuntes ejercicios y documentación sobre el curso de introdución a HTML5, CSS y JAVA_SCRIPT (Digital-Literacy) de la Agencia para el Empleo de MADRID.
