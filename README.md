@@ -15,8 +15,10 @@ Este repositorio pretende ser una recopilación de apuntes e información sobre 
 
 
 📕  [HTML](/documentation/html5.md)   
-📕  [CSS](/documentation/css.md)  :pencil: 📐 [Ejercicios](/tests/exercices.md) |
-📕  [JS](/documentation/js.md)  :books: [JS Scripts Library](/scripts_library/scripts.md)  |
+📕  [CSS](/documentation/css.md)  
+📕  [JS](/documentation/js.md)
+:pencil: 📐 [Ejercicios](/tests/exercices.md)
+:books: [JS Scripts Library](/scripts_library/scripts.md)
 
 &nbsp; 
 &nbsp; 
