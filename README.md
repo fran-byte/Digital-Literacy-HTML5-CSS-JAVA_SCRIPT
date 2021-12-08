@@ -1,6 +1,6 @@
 # HTML5 - CSS - JAVA_SCRIPT
 
-[![HTML5](/documentation/html5.md)
+[![HTML5](https://img.shields.io/badge/license-MIT-lightgrey.svg)](/documentation/html5.md)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/main/LICENSE.txt)
 [![NPM Downloads](https://img.shields.io/npm/dt/html5-boilerplate.svg)](https://www.npmjs.com/package/html5-boilerplate)
 [![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/h5bp/html5-boilerplate)
