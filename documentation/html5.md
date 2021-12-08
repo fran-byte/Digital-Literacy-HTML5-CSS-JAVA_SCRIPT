@@ -13,7 +13,7 @@
 &nbsp; 
 
 ### Antes de continuar os dejo el link de [<Buenas prácticas para escribir HTML>](rules.md)
-
+&nbsp; &nbsp; 
 ### \<!DOCTYPE html>  (documento HTML)
 
 Empezamos declarando con esta etiqueta el tipo de documento para que el navegador pueda interpretar y visualizar su contenido.
