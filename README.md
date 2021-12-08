@@ -1,8 +1,8 @@
 # HTML5 - CSS - JAVA_SCRIPT
 
-[![HTML5](https://img.shields.io/badge/HTML-5-lightgrey.svg)](/documentation/html5.md)
-[![CSS](https://img.shields.io/npm/dt/html5-boilerplate.svg)](documentation/css.md)
-[![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/h5bp/html5-boilerplate)
+[![HTML5](https://img.shields.io/badge/HTML-5-lightgrey.svg?style=for-the-badge&logo=appveyor)](/documentation/html5.md)
+[![HTML5](https://img.shields.io/badge/CSS-green.svg?style=for-the-badge&logo=appveyor)](documentation/css.md)
+[![JS](https://img.shields.io/badge/CSS-red.svg?style=for-the-badge&logo=appveyor)](documentation/js.md)
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
