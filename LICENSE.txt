@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c)  Digital-Literacy-HTML5-CSS-JAVA_SCRIPT  2021 fran-byte
+Copyright (c) 2021 fran-byte Digital-Literacy-HTML5-CSS-JAVA_SCRIPT  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Copyright (c)  Digital-Literacy-HTML5-CSS-JAVA_SCRIPT  2021 fran-byte
+Copyright (c) 2021 fran-byte Digital-Literacy-HTML5-CSS-JAVA_SCRIPT  
 
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de
 este software y los archivos de documentación asociados (el "Software"), para tratar
