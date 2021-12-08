@@ -1,4 +1,4 @@
-:house:  [HOME](/README.md)         📕  [HTML](/documentation/html5.md)         📕  [CSS](/documentation/css.md)         📕  [JS](/documentation/js.md)         :pencil: [Ejercicios](/tests/exercices.md)         :books: [JS Scripts Library](/scripts_library/scripts.md)
+:house:  [HOME](/README.md)         📕  [HTML](/documentation/html5.md)         📕  [CSS](/documentation/css.md)         📕  [JS](/documentation/js.md)         :pencil: [Ejercicios](/html-css-examples/)         :books: [JS Scripts Library](/scripts_library/scripts.md)
  
   
 
