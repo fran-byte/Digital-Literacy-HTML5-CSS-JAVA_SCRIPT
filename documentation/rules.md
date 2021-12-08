@@ -47,7 +47,7 @@ color: #e5e5e5;
     <title>Aquí colocamos el título de la página</title>
   </head>
   <body>    
-    <img src="images/coche.png" alt="Porche Rojo">
+    <img src="images/coche.png" alt="Porsche Rojo">
   </body>
 </html>
  ```
