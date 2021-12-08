@@ -34,7 +34,7 @@ ___________________
 ___________________
 
 ### \<body>\<\body>
-+ La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
++ La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador como imágenes, textos, enlaces, video, etc…
 Pero todo ello correctamente estructurado y etiquetado:
 ```html
 
