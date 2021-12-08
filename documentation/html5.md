@@ -13,7 +13,7 @@
 + A este contenido estático que visualizaremos en nuestro navegador, le añadiremos hojas de estilos CSS y contenidos dinámicos (JavaScript) para ayudar en la tarea del diseño gráfico, creación y presentación de nuestro documento. 
 &nbsp; 
 
-# Antes de continuar LEER: [<Buenas prácticas para escribir HTML>](rules.md)
+## Antes de continuar LEER: [<Buenas prácticas para escribir HTML>](rules.md)
 
 ### \<!DOCTYPE html>  (documento HTML)
 
