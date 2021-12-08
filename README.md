@@ -5,7 +5,7 @@
 
 
 
-Este repositorio pretende ser una introdución a HTML5, CSS y JAVA_SCRIPT del Curso Digital-Literacy de la Agencia para el Empleo de MADRID basada en ejercicios y su correspondiente documentación.
+Este repositorio pretende ser una recopilación de apuntes e información sobre una introdución a HTML5, CSS y JAVA_SCRIPT del Curso Digital-Literacy de la Agencia para el Empleo de MADRID basada en ejercicios y su correspondiente documentación.
 
 ## ... REPOSITORIO EN PROCESO DE BACKUP y CREACIÓN ...
 
