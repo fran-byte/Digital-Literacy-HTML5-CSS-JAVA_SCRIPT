@@ -13,13 +13,13 @@
 
 + A este contenido estático que visualizaremos en nuestro navegador, le añadiremos hojas de estilos CSS y contenidos dinámicos (JavaScript) para ayudar en la tarea del diseño gráfico, creación y presentación de nuestro documento. 
 &nbsp; 
-
+___________________
 
 
 ### \<!DOCTYPE html>  (documento HTML)
 
 Empezamos declarando con esta etiqueta el tipo de documento para que el navegador pueda interpretar y visualizar su contenido.
-
+___________________
 ### \<head>\</head>
 + Este elemento delimita la cabecera del documento, y entre sus etiquetas nos podemos encontrar información como scripts, metadatos, estilos, la ubicación de documentos de estilos, título de la página, etc.
 ```html
@@ -31,7 +31,7 @@ Empezamos declarando con esta etiqueta el tipo de documento para que el navegado
 </head>
 ```
 
-
+___________________
 
 ### \<body>\<\body>
 + La etiqueta body delimita el cuerpo de nuestro documento, albergando todo aquello que vayamos a visualizar en el navegador. Imágenes, textos, enlaces, video, etc…
@@ -59,6 +59,7 @@ Pero todo ello correctamente estructurado y etiquetado:
 <body>
   
 ```
+___________________
 #### Ejemplo de estructura dentro de "body"
 ```html
 
@@ -96,7 +97,7 @@ Pero todo ello correctamente estructurado y etiquetado:
   </body>  
 
 ```
-
+___________________
 ### \<h1>, \<h2>, \<h3>, \<h4>, \<h5>, \<h6>
 + Etiquetas para establecer los encabezados. El nivel **h1** es el más importante y **h6** el menos importante.
 ```html
@@ -105,22 +106,23 @@ Pero todo ello correctamente estructurado y etiquetado:
 <h3>Textos</h3>
 <h4>Avisos legales</h4>
 ```
-
+___________________
 ### \<div>\</div>
 + Esta etiqueta la usamos para dividir contenido en secciones/subsecciones...etc. y poder aplicarle clases y modificar sus estilos, que podremos ver mas cuando veamos las hojas de estilos CSS.
 ```html
 <div id="azul" style="background-color: blue;">  <!-- Modificando el estilo con el correspondiente CSS -->
 </div>
 ```
+___________________
 ### \<p>\</p>
 + Otra sub división utilizada como párrafo que podría ir perfectamente dentro del contenedor \<div> anterior.
-
+___________________
 ### \<spam>\</spam>
 + Otra etiqueta que tiene función de contenedor, un contenedor en línea. Para destacar por ejemplo una expresión o una palabra dentro de un párrafo al igual que al resto se le puede poner un estilo mediante un atributo. 
-
+___________________
 ### \<br>
 + Un simple salto de línea.
-
+___________________
 ### \<ol>  \<li>\</li> \<ol> | \<ul> \<li>\</li> \<ul>
 + Etiqueta **\<ol>** nos sirve para crear listas ordenadas y **\<ul>** para listas desordenadas. Dentro de cada las lista, los elementos se identifican con la etiqueta **\<li>**.
 ```html
@@ -134,13 +136,13 @@ Pero todo ello correctamente estructurado y etiquetado:
   <li>Segundo elemento "desordenado"</li>
 <ul>
 ```
-
+___________________
 ### \<a>\</a>
 + Etiqueta para crear un enlace a una página web. Atributo principal **href**, contendrá el enlace al que queremos conectar. Otro atributo es **target**, indicará si el enlace se abrirá en la misma ventana o en una nueva.
 ```html
  <a href="http://dominio.com/aviso-legal" target=”_blank”>Política de cookies</a>
 ```
-
+___________________
 ### \<img>\</img>
 + Etiqueta para mostrar imágenes dentro de un contenido. Lleva consigo el atributo **src** para poder ser utilizada, que será la ubicación donde se encuentra nuestra imagen. Es importante colocar siempre el atributo **title** para saber la descripción de esa imagen a la hora de leer nuestro código.
 
